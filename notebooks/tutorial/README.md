@@ -17,7 +17,5 @@ This folder is just the implementation in Jupyter Notebook of the tutorials pres
 ├── ex7.ipynb # Dynamic Agent Visualization: Learn how to dynamically represent your agents in your interactive dashboard.
 ├── ex8.ipyn # Visualization using SpaceRenderer: Learn how to use SpaceRenderer to its full extent to enhance your visualizations.
 ├── ex9.ipynb # Property Layer Visualization: Learn how to visualize property layers in Mesa.
-├── ex10.ipynb # Custom Visualization Components: Learn how to add custom visual components to your interactive dashboard.
-├── ex11.ipynb # Parameter Sweeps: Learn how to conduct parameter sweeps on multiple processors with Mesa’s BatchRunner.
-└── ex12.ipynb # Comparing Scenarios: Think through how to analyze your parameter sweep results to find insight in your Mesa simulations.
+└── ex10.ipynb # Custom Visualization Components: Learn how to add custom visual components to your interactive dashboard.
 ```
