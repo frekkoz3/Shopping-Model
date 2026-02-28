@@ -1,0 +1,22 @@
+{
+    "tshirt": {"cost": 15, "recovery" : 0},
+    "jeans": {"cost": 40, "recovery" : 0},
+    "sneakers": {"cost": 60, "recovery" : 0},
+    "jacket": {"cost": 80, "recovery" : 0},
+    "watch": {"cost": 120, "recovery" : 0},
+    "backpack": {"cost": 35, "recovery" : 0},
+    "sunglasses": {"cost": 25, "recovery" : 0},
+    "headphones": {"cost": 70, "recovery" : 0},
+    "bluetooth_speaker": {"cost": 55, "recovery" : 0},
+    "smartphone": {"cost": 500, "recovery" : 0},
+    "tablet": {"cost": 350, "recovery" : 0},
+    "laptop": {"cost": 900, "recovery" : 0},
+    "bike": {"cost": 250, "recovery" : 0},
+    "electric_scooter": {"cost": 450, "recovery" : 0},
+    "gaming_console": {"cost": 400, "recovery" : 0},
+    "video_game": {"cost": 60, "recovery" : 0},
+    "perfume": {"cost": 75, "recovery" : 0},
+    "wallet": {"cost": 30, "recovery" : 0},
+    "belt": {"cost": 20, "recovery" : 0},
+    "cap": {"cost": 15, "recovery" : 0}
+}

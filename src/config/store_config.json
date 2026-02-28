@@ -1,0 +1,22 @@
+{
+    "bread": {"cost": 1, "recovery": 0.05},
+    "milk": {"cost": 2, "recovery": 0.08},
+    "tea": {"cost": 5, "recovery": 0.02},
+    "cereal": {"cost": 2, "recovery": 0.05},
+    "apple": {"cost": 1, "recovery": 0.04},
+    "banana": {"cost": 1, "recovery": 0.04},
+    "cheese": {"cost": 4, "recovery": 0.06},
+    "yogurt": {"cost": 2, "recovery": 0.05},
+    "chicken": {"cost": 6, "recovery": 0.12},
+    "beef": {"cost": 8, "recovery": 0.15},
+    "rice": {"cost": 3, "recovery": 0.07},
+    "pasta": {"cost": 2, "recovery": 0.06},
+    "eggs": {"cost": 3, "recovery": 0.07},
+    "coffee": {"cost": 5, "recovery": 0.03},
+    "orange_juice": {"cost": 4, "recovery": 0.06},
+    "fish": {"cost": 7, "recovery": 0.13},
+    "potatoes": {"cost": 2, "recovery": 0.06},
+    "carrots": {"cost": 2, "recovery": 0.05},
+    "nuts": {"cost": 5, "recovery": 0.09},
+    "chocolate": {"cost": 3, "recovery": 0.04}
+}

@@ -1,0 +1,10 @@
+{
+    "average_wealth" : 2,
+    "wealth_std" : 1,
+    "average_income" : 2,
+    "income_std" : 1,
+    "lowest_shopping_probability" : 0.15,
+    "highest_shopping_probability" : 0.8,
+    "lowest_over_shopping_probability" : 0.15,
+    "highest_over_shopping_probability" : 0.8
+}
